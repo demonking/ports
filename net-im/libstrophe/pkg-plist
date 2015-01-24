@@ -1,0 +1,6 @@
+include/strophe.h
+lib/libstrophe.a
+lib/libstrophe.la
+lib/libstrophe.so
+lib/libstrophe.so.0
+libdata/pkgconfig/libstrophe.pc
